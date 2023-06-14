@@ -1,0 +1,45 @@
+.page_container {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  border-radius: 8px;
+  position: relative;
+  height: 64px;
+  align-items: center;
+  width: 500px;
+  justify-content: center;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  padding: 20px 0px 20px 0px;
+}
+.wrapper_note_110 {
+  flex-direction: column;
+  flex: none;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  width: 460px;
+  gap: 10;
+  justify-content: flex-start;
+  height: 22px;
+  display: flex;
+}
+.text_10 {
+  font-size: 22px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(15, 15, 15);
+  line-height: 100%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: left;
+  vertical-align: middle;
+  font-weight: 900;
+}
+.image_12 {
+  width: 24px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 24px;
+}

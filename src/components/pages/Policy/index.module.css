@@ -1,0 +1,26 @@
+.page_container {
+  color: rgb(0, 0, 0);
+}
+.button_1 {
+  font-size: 16px;
+  border-radius: 2px;
+  width: auto;
+  height: auto;
+  font-weight: 500;
+  display: inline-block;
+  padding: 4px 15px 4px 15px;
+}
+.icon_1 {
+  padding: 5px 0px 0px 0px;
+}
+.row_1 {
+  width: 100%;
+  height: auto;
+  margin: 0px 0px 0px 0px;
+}
+.box_1 {
+  width: 100%;
+  background-color: rgb(221, 221, 221);
+  border-radius: 2px;
+  height: 300px;
+}

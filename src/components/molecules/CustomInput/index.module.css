@@ -1,0 +1,33 @@
+.custom_component_container {
+  width: 100%;
+}
+.input_1_container {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0);
+  margin: 0px 0px 24px 0px;
+}
+.input_1_inner {
+  background-color: rgba(0, 0, 0, 0);
+  width: 100%;
+  margin: 10px 0px 10px 0px;
+}
+.input_1_label {
+  color: rgb(233, 17, 17);
+  font-weight: bold;
+  display: inline;
+  margin: 0px 10px 0px 0px;
+}
+.input_1_required {
+  color: rgb(255, 0, 0);
+  font-weight: bold;
+  display: inline;
+}
+.input_1 {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0);
+}
+.input_1_error_message_container {
+  background-color: rgba(0, 0, 0, 0);
+  width: 100%;
+  margin: 10px 0px 0px 0px;
+}
